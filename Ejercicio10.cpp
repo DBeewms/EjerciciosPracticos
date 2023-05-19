@@ -1,4 +1,5 @@
 //10. Imprimir los primeros 100 números primos.
+//10. Imprimir los primeros 100 números primos.
 
 #include <iostream>
 using namespace std;
